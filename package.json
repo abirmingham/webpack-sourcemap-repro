@@ -1,0 +1,15 @@
+{
+  "name": "webpack-sourcemap-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "rm -rf static/* && ./node_modules/.bin/webpack-cli"
+  },
+  "devDependencies": {
+    "webpack": "4.37.0",
+    "webpack-cli": "3.3.6"
+  }
+}
