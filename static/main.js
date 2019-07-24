@@ -98,8 +98,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _util__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util */ "./src/util.js");
 
 
-console.log(_util__WEBPACK_IMPORTED_MODULE_0__["printToConsole"]);
-Object(_util__WEBPACK_IMPORTED_MODULE_0__["printToConsole"])('Application Started');
+Object(_util__WEBPACK_IMPORTED_MODULE_0__["printToConsole"])('Set Debugger Point On This Line');
 
 /***/ }),
 
