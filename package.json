@@ -9,7 +9,7 @@
     "build": "rm -rf static/* && ./node_modules/.bin/webpack-cli"
   },
   "devDependencies": {
-    "webpack": "4.37.0",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.6"
   }
 }
